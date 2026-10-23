@@ -1,7 +1,7 @@
 """Expense Tracker.
 
-A simple command-line app to record and review your daily expenses.
-Data is stored in a local JSON file (expenses.json by default).
+A lightweight command-line tool for logging your daily spending and checking where your money goes.
+Everything is saved in a local JSON file (`expenses.json` by default), so there's no database or setup.
 
 Usage:
     python expense_tracker.py add 250 food "Lunch with friends"
